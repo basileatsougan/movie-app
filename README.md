@@ -5,5 +5,7 @@ Movie App
 
 ![movie2](https://github.com/Juihibi/movie-app/assets/142254238/e0ceda4e-f931-454f-ac85-0d84a809f2cd)
 
-![movie3](https://github.com/Juihibi/movie-app/assets/142254238/ceb9be76-cc03-4381-8058-e0e7980bcd5e)
+![movie3c](https://github.com/Juihibi/movie-app/assets/142254238/74b2e0e1-d889-40df-b77b-887fad8f7d3a)
+
+
 
