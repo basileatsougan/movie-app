@@ -9,7 +9,6 @@ const form = document.getElementById('form');
 const search = document.getElementById('search');
 
 
-
 //initially get fav movies
 getMovies(APIURL);
 
